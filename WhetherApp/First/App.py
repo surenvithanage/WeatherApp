@@ -25,7 +25,7 @@ def getwhe(city):
     # print(wjson['weather'][0]['description'])
     # print(wjson['main']['temp'])
 
-#
+
 # api.openweathermap.org/data/2.5/forecast?q={city name}&appid={your api key}
 
 root = tk.Tk()
