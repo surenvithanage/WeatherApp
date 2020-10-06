@@ -29,7 +29,7 @@ def getwhe(city):
 # api.openweathermap.org/data/2.5/forecast?q={city name}&appid={your api key}
 
 root = tk.Tk()
-
+//Adding canvas and frame
 canvas = tk.Canvas(root , height=600,width=600).pack()
 frame = tk.Frame(root,bg='#A9CCE3')
 frame.place(relwidth=1,relheight = 1)
